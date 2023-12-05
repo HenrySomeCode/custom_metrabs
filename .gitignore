@@ -1,0 +1,9 @@
+*.mp4
+*.jpg
+*.png
+*.ckpt
+*.pt
+*.npy
+*.json
+*.yaml
+*.npz
